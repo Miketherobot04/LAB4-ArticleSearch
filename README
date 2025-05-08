@@ -1,0 +1,15 @@
+v#00681441 Android Lab 4: Article Search App
+
+Submitted by Michael Oyetibo.
+
+The Article Search App displays articles using an API. It allows you to click into each article and read the material.
+
+Time spent: 1.5 hours total.
+
+Required Features:
+The following needed functionality has been completed:
+
+ The primary criteria for this project will allow a user to see a list of article abstracts, together with the article title, description, and media photo.
+ When they tap on a certain article, it will take them to a details screen that has the same information as the article's author.
+Stretch Features
+ For stretch features, our application's UI will be changed with fonts and ConstraintLayout for each screen.
